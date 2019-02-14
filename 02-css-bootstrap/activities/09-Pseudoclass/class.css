@@ -1,0 +1,16 @@
+a:hover {
+    color: yellow;
+    background: orange
+}
+
+a:link {
+    color: red;
+}
+
+a:active {
+    color: darkblue;
+}
+
+h1:hover {
+    background: #4aaaa5;
+}

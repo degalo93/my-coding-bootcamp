@@ -1,0 +1,41 @@
+/* Follow the instructions within the html file to style the page */
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#Oppan {
+    width: 800px;
+    background: lightgray;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    color: darkblue;
+    font-size: 20px;
+    text-align: left;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkmagenta
+}
+
+li {
+    text-align: left;
+    list-style: circle;
+}
+
+#p2 {
+    font-style: italic;
+    text-align: right;
+    color: darkred;
+}

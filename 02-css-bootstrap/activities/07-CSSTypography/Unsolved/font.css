@@ -1,0 +1,29 @@
+body {
+    background: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: greenyellow;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-weight: 500;
+    color: greenyellow;
+}
+
+h3 {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    letter-spacing: 40px;
+}
+
+h4 {
+    font-size: 100%;
+    font-family: 'Libre Barcode 39 Text', cursive;
+    line-height: 20px;
+}
+
+p {
+    font-family: serif;
+    font-size: 120%;
+    letter-spacing: 50px;
+}
